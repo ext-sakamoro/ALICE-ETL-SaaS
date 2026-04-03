@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_ETL
+name: alice-etl
 description: ALICE ETL
 type: application
 version: 0.1.0
